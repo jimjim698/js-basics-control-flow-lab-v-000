@@ -23,7 +23,7 @@ function switchOnCharmFromTip(tip){
   switch(tip){
     case 'genrous':
       result = 'Thank you so much.'
-    break 
+    break; 
   }
   return result
   
