@@ -25,6 +25,6 @@ function switchOnCharmFromTip(tip){
       result = 'Thank you so much.';
     break; 
   }
-  return result
+  
   
 }
